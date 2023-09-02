@@ -1,4 +1,4 @@
 # Needleman-Wunsch-Algorithm
-Global sequence alignment using NW Algorithm. Submission for DAA CIA 1
+This repo contains the code for global sequence alignment using NW Algorithm. 
 
 ![Screenshot](output.png)
